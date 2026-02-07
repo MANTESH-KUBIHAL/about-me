@@ -93,7 +93,7 @@ function Contact() {
 
             <div className="mycontacts">
                 <a
-                    href="https://www.linkedin.com"
+                    href="https://www.linkedin.com/in/mantesh-kubihal-794187296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
@@ -101,7 +101,7 @@ function Contact() {
                 </a>
 
                 <a
-                    href="https://www.naukri.com"
+                    href="https://www.naukri.com/mnjuser/homepage?utm_source=google&utm_medium=cpc&utm_campaign=Brand"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
@@ -109,7 +109,7 @@ function Contact() {
                 </a>
 
                 <a
-                    href="https://www.indeed.com"
+                    href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage"
                     target="_blank"
                     rel="noopener noreferrer"
                 >

@@ -243,6 +243,7 @@ body {
 
 .eduboxes {
   gap: 15px;
+  margin: 5%;
 }
 
 .engineering {
@@ -331,4 +332,11 @@ textarea {
   padding: 5%;
   text-decoration: none;
   color: aliceblue;
+}
+
+.bottombar {
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
 }
